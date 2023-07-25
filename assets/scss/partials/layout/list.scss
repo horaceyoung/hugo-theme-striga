@@ -50,11 +50,11 @@
 
     .article-list--tile {
         display: flex;
-        padding-bottom: 15px;
+        padding-bottom: 0px;
 
         article {
-            width: 250px;
-            height: 150px;
+            width: 150px;
+            height: 90px;
             margin-right: 20px;
             flex-shrink: 0;
 
